@@ -8,6 +8,13 @@ The model is developed to function as an Egyptian educational assistant ("Faheem
 
 ---
 
+## Model Access
+
+The finalized fine-tuned adapter and model weights are publicly available on the Hugging Face Hub:
+- **[Faheem Nile-Chat Egyptian Adapter](https://huggingface.co/mohammed-ham7a/faheem-nile-chat-egyptian-adapter)**
+
+---
+
 ## Architecture Overview
 
 | Component | Detail |
